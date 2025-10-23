@@ -67,68 +67,43 @@ I thrive in both **mobile** and **web development**, combining creativity, struc
 
 ### 💼 Experience
 
-#### 📚 **Python Developer**
-**Personal Project | 2025**
-
-Built a comprehensive **Library Management System** to streamline operations for a community library.  
-The system efficiently manages **patron attendances**, **book borrowing and retrieval**, and **payments** for various library services and activities.
-
-🔹 Designed and implemented the full system architecture using **Python** and **PyQt5** for an intuitive, desktop-based user interface.  
-🔹 Integrated **SQLite** for lightweight yet robust data persistence and easy query handling.  
-🔹 Added **analytics and visual dashboards** to track library usage trends, member attendance frequency, and financial summaries.  
-🔹 Developed modules for:
-  - 📖 Book cataloging and tracking
-  - 👥 Patron registration and attendance logging
-  - 💰 Payment tracking and receipt generation
-  - 📊 Automated data insights using **Matplotlib** and **Pandas**
-
-🧩 **Technologies Used:** Python, PyQt5, SQLite, Matplotlib, Pandas
-
-> _"A smart, data-driven desktop solution empowering libraries to manage, analyze, and grow efficiently."_
+#### 📚 **Personal Project**
+Built a comprehensive **Library Management System** using **Python** and **PyQt5** for an intuitive, desktop-based user interface.  
+🌐 [Source Code →](https://github.com/TJselevani/LibraryMGMT.git)
 
 
-#### 🚀 **Full Stack Developer (Freelance)**
+#### 🚀 **Next Developer**
 🛒 Built **NextGen Computing**, an e-commerce platform using Next.js + Sanity CMS  
 🔐 Integrated **Clerk authentication** and **Mpesa payments (IntaSend)** 
 🌍 [Live Demo →](https://solidtechnology.vercel.app)
 🌍 [Live Demo →](https://nextgencomputing.vercel.app)
+🌐 [Source Code →](https://github.com/TJselevani/solidtechnology.git)
 
 #### 🤖 **Python Chatbot Developer**
 💬 Developed a smart **PyTorch chatbot** with FastAPI integration for dynamic intent recognition and service automation.
+🌐 [Source Code →](https://github.com/TJselevani/pytorch-chatbot.git)
 
 #### 📊 **Data Analyst**
 📈 Designed forecasting models using **ARIMA**, **SARIMAX**, and **Linear Regression**  
 🔗 Served insights via FastAPI-powered endpoints.
+🌐 [Source Code →](https://github.com/TJselevani/python-analysis.git)
 
 #### 📱 **Mobile Developer**
 📲 Developed a **Flutter + Node.js** cross-platform app with media playback, JWT authentication, and BLoC architecture.
+🌐 [Source Code →](https://github.com/TJselevani/pix2life.git)
 
 #### 🧩 **Junior Backend Developer – CompuLynx Ltd**
 💼 Worked on secure and modular backend APIs using **ExpressJS**, **Prisma**, **PassportJS**, and **MySQL**.
+🌐 [Source Code →](https://github.com/TJselevani/Admin-Dash.git)
 
----
-
-### 🎓 Education
-
-**🎓 BSc. Computer Science**  
-*Multimedia University of Kenya (2019 – 2023)*  
-📘 *Second Class Upper Division*
-
----
-
-### 📜 Certifications
-
-- 🧠 **Soft Skills Training** – Brighter Monday (2025)
-- 🌐 **Networking Basics** – Cisco Networking Academy (2025)
-- 🧩 **IT Support Fundamentals** – Google & Coursera (2022)
-- 🧱 **CCNA 1: Introduction to Networks** – JKUAT (2021)
-
----
 
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TJselevani&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" width="48%"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TJselevani&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
