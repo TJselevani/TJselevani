@@ -68,36 +68,111 @@ I’m always excited to collaborate with fellow developers, share ideas, and tac
 
 ---
 
+---
+
 ### 💼 Experience
 
-#### 📚 **Personal Project**
-  Built a comprehensive **Library Management System** using **Python** and **PyQt5** for an intuitive, desktop-based user interface.  
-  🌐 [Source Code →](https://github.com/TJselevani/LibraryMGMT.git)
+<div align="center">
 
+#### 📚 **Library Management System**  
+🧠 *Personal Project | Python Desktop Application*
 
-#### 🚀 **Next Developer**
-  🛒 Built **NextGen Computing**, an e-commerce platform using Next.js + Sanity CMS  
-  🔐 Integrated **Clerk authentication** and **Mpesa payments (IntaSend)** 
-  🌍 [Live Demo →](https://solidtechnology.vercel.app)
-  🌍 [Live Demo →](https://nextgencomputing.vercel.app)
-  🌐 [Source Code →](https://github.com/TJselevani/solidtechnology.git)
+A full-featured **Library Management System** for tracking patron attendance, book borrowing/returns, and payments for library activities.  
+Built with **Python** and **PyQt5**, featuring integrated **analytics dashboards** to visualize usage trends, revenue, and member statistics.  
 
-#### 🤖 **Python Chatbot Developer**
-  💬 Developed a smart **PyTorch chatbot** with FastAPI integration for dynamic intent recognition and service automation.
-  🌐 [Source Code →](https://github.com/TJselevani/pytorch-chatbot.git)
+💻 **Tech Stack:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PyQt5](https://img.shields.io/badge/-PyQt5-41CD52?logo=qt&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 
-#### 📊 **Data Analyst**
-  📈 Designed forecasting models using **ARIMA**, **SARIMAX**, and **Linear Regression**  
-  🔗 Served insights via FastAPI-powered endpoints.
-  🌐 [Source Code →](https://github.com/TJselevani/python-analysis.git)
+🌐 [Source Code →](https://github.com/TJselevani/LibraryMGMT.git)
 
-#### 📱 **Mobile Developer**
-  📲 Developed a **Flutter + Node.js** cross-platform app with media playback, JWT authentication, and BLoC architecture.
-  🌐 [Source Code →](https://github.com/TJselevani/pix2life.git)
+---
 
-#### 🧩 **Junior Backend Developer – CompuLynx Ltd**
-  💼 Worked on secure and modular backend APIs using **ExpressJS**, **Prisma**, **PassportJS**, and **MySQL**.
-  🌐 [Source Code →](https://github.com/TJselevani/Admin-Dash.git)
+#### 🚀 **NextGen Computing (E-Commerce Platform)**  
+🛒 *Freelance Project | Full Stack (Next.js + Sanity CMS)*
+
+Built an end-to-end **e-commerce platform** for selling computing devices.  
+Integrated **Clerk authentication** and **Mpesa payments (IntaSend)** with a centralized CMS for managing inventory.  
+
+💻 **Tech Stack:**  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Sanity CMS](https://img.shields.io/badge/-Sanity%20CMS-F03E2F?logo=sanity&logoColor=white)
+![Clerk](https://img.shields.io/badge/-Clerk-4F46E5?logo=clerk&logoColor=white)
+![IntaSend](https://img.shields.io/badge/-IntaSend-1A73E8?logo=googlepay&logoColor=white)
+
+🌍 [Live Demo →](https://nextgencomputing.vercel.app) 🌐 [Source Code →](https://github.com/TJselevani/solidtechnology.git)
+
+---
+
+#### 🤖 **PyTorch Chatbot (FastAPI Integration)**  
+💬 *Freelance Project | AI + NLP Application*
+
+Developed a smart chatbot using **PyTorch** and **FastAPI**, designed to identify user intents and automate service requests such as OTP generation and booking initiation.  
+
+💻 **Tech Stack:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+
+🌐 [Source Code →](https://github.com/TJselevani/pytorch-chatbot.git)
+
+---
+
+#### 📊 **Revenue Forecasting and Analysis (GoPay)**  
+📈 *Freelance Project | Data Science & Backend Analytics*
+
+Built forecasting models using **ARIMA**, **SARIMAX**, and **Linear Regression** to predict transportation revenue.  
+Implemented **FastAPI endpoints** to serve statistical insights and time-series decomposition.  
+
+💻 **Tech Stack:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white)
+
+🌐 [Source Code →](https://github.com/TJselevani/python-analysis.git)
+
+---
+
+#### 📱 **Pix2Life Mobile App**  
+📲 *Personal Project | Flutter + Node.js*
+
+Developed a **cross-platform media gallery app** featuring media playback, JWT authentication, and image caching.  
+Implemented **BLoC architecture** and **MVC backend design** for maintainability.  
+
+💻 **Tech Stack:**  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white)
+
+🌐 [Source Code →](https://github.com/TJselevani/pix2life.git)
+
+---
+
+#### 🧩 **Junior Backend Developer – CompuLynx Ltd**  
+🏢 *Internship | Backend Engineering*
+
+Contributed to the development of secure, modular APIs using **ExpressJS**, **Prisma ORM**, and **PassportJS** for authentication.  
+Implemented structured logging and error handling for improved app stability.  
+
+💻 **Tech Stack:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Passport.js](https://img.shields.io/badge/-Passport.js-34E27A?logo=passport&logoColor=black)
+
+🌐 [Source Code →](https://github.com/TJselevani/Admin-Dash.git)
+
+</div>
+
+---
+
 
 
 ### 📈 GitHub Stats
