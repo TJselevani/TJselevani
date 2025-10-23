@@ -14,7 +14,11 @@
 ### 👨‍💻 About Me
 
 I'm a passionate **Full Stack Developer** with over **3 years of experience** building fun, challenging, and user-focused applications.  
-I thrive in both **mobile** and **web development**, combining creativity, structure, and analytics to deliver performant and elegant digital solutions.
+I thrive in both **mobile** and **web development**, blending creativity, structure, and analytics to deliver performant and elegant digital solutions.
+
+Lately, I've been diving into the world of LLMs, exploring how they can be harnessed for real-world business applications — especially when working with unstructured or private datasets using tools like LangChain and LangGraph.
+
+I’m always excited to collaborate with fellow developers, share ideas, and tackle the everyday puzzles that come with building great tech. Feel free to reach out on WhatsApp at +254748463195 — and just call me TJ 😊 “I believe that code, like life, is a constant act of creation — a way to bring order to chaos, and meaning to complexity.”
 
 - ⚙️ Experienced in **Node.js**, **Next.js**, **React**, **Flutter**, and **React Native**
 - 📊 Skilled in **data analysis** using Python, R, and visualization libraries (Plotly, Matplotlib)
@@ -122,7 +126,7 @@ I thrive in both **mobile** and **web development**, combining creativity, struc
 
 ---
 
-> _“Building digital experiences that inspire, perform, and evolve.”_ ✨
+> _“”_ ✨
 
 
 <!--
