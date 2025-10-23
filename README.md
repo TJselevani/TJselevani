@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- Profile README for Timothy Selevani Juma -->
 
 <h1 align="center">👋 Hey there, I'm <a href="https://github.com/TJselevani">Timothy Selevani Juma</a> </h1>
