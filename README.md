@@ -106,6 +106,22 @@ Integrated **Clerk authentication** and **Mpesa payments (IntaSend)** with a cen
 
 ---
 
+#### 📱 **Pix2Life Mobile App**  
+📲 *Personal Project | Flutter + Node.js*
+
+Developed a **cross-platform media gallery app** featuring media playback, JWT authentication, and image caching.  
+Implemented **BLoC architecture** and **MVC backend design** for maintainability.  
+
+💻 **Tech Stack:**  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white)
+
+🌐 [Source Code →](https://github.com/TJselevani/pix2life.git)
+
+---
+
 #### 🚀 **Print Swift**  
 🛒 *Freelance Project | React Native*
 
@@ -200,22 +216,6 @@ The system was able to generate a timetable without any collisions easily using 
 
 🌐 [Source Code →](https://github.com/TJselevani/PrintSwift.git)
 
-
----
-
-#### 📱 **Pix2Life Mobile App**  
-📲 *Personal Project | Flutter + Node.js*
-
-Developed a **cross-platform media gallery app** featuring media playback, JWT authentication, and image caching.  
-Implemented **BLoC architecture** and **MVC backend design** for maintainability.  
-
-💻 **Tech Stack:**  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white)
-
-🌐 [Source Code →](https://github.com/TJselevani/pix2life.git)
 
 ---
 
