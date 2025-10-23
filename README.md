@@ -68,8 +68,6 @@ I’m always excited to collaborate with fellow developers, share ideas, and tac
 
 ---
 
----
-
 ### 💼 Experience
 
 <div align="center">
