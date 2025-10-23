@@ -67,33 +67,33 @@ I thrive in both **mobile** and **web development**, combining creativity, struc
 ### 💼 Experience
 
 #### 📚 **Personal Project**
-Built a comprehensive **Library Management System** using **Python** and **PyQt5** for an intuitive, desktop-based user interface.  
-🌐 [Source Code →](https://github.com/TJselevani/LibraryMGMT.git)
+  Built a comprehensive **Library Management System** using **Python** and **PyQt5** for an intuitive, desktop-based user interface.  
+  🌐 [Source Code →](https://github.com/TJselevani/LibraryMGMT.git)
 
 
 #### 🚀 **Next Developer**
-🛒 Built **NextGen Computing**, an e-commerce platform using Next.js + Sanity CMS  
-🔐 Integrated **Clerk authentication** and **Mpesa payments (IntaSend)** 
-🌍 [Live Demo →](https://solidtechnology.vercel.app)
-🌍 [Live Demo →](https://nextgencomputing.vercel.app)
-🌐 [Source Code →](https://github.com/TJselevani/solidtechnology.git)
+  🛒 Built **NextGen Computing**, an e-commerce platform using Next.js + Sanity CMS  
+  🔐 Integrated **Clerk authentication** and **Mpesa payments (IntaSend)** 
+  🌍 [Live Demo →](https://solidtechnology.vercel.app)
+  🌍 [Live Demo →](https://nextgencomputing.vercel.app)
+  🌐 [Source Code →](https://github.com/TJselevani/solidtechnology.git)
 
 #### 🤖 **Python Chatbot Developer**
-💬 Developed a smart **PyTorch chatbot** with FastAPI integration for dynamic intent recognition and service automation.
-🌐 [Source Code →](https://github.com/TJselevani/pytorch-chatbot.git)
+  💬 Developed a smart **PyTorch chatbot** with FastAPI integration for dynamic intent recognition and service automation.
+  🌐 [Source Code →](https://github.com/TJselevani/pytorch-chatbot.git)
 
 #### 📊 **Data Analyst**
-📈 Designed forecasting models using **ARIMA**, **SARIMAX**, and **Linear Regression**  
-🔗 Served insights via FastAPI-powered endpoints.
-🌐 [Source Code →](https://github.com/TJselevani/python-analysis.git)
+  📈 Designed forecasting models using **ARIMA**, **SARIMAX**, and **Linear Regression**  
+  🔗 Served insights via FastAPI-powered endpoints.
+  🌐 [Source Code →](https://github.com/TJselevani/python-analysis.git)
 
 #### 📱 **Mobile Developer**
-📲 Developed a **Flutter + Node.js** cross-platform app with media playback, JWT authentication, and BLoC architecture.
-🌐 [Source Code →](https://github.com/TJselevani/pix2life.git)
+  📲 Developed a **Flutter + Node.js** cross-platform app with media playback, JWT authentication, and BLoC architecture.
+  🌐 [Source Code →](https://github.com/TJselevani/pix2life.git)
 
 #### 🧩 **Junior Backend Developer – CompuLynx Ltd**
-💼 Worked on secure and modular backend APIs using **ExpressJS**, **Prisma**, **PassportJS**, and **MySQL**.
-🌐 [Source Code →](https://github.com/TJselevani/Admin-Dash.git)
+  💼 Worked on secure and modular backend APIs using **ExpressJS**, **Prisma**, **PassportJS**, and **MySQL**.
+  🌐 [Source Code →](https://github.com/TJselevani/Admin-Dash.git)
 
 
 ### 📈 GitHub Stats
