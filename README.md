@@ -109,14 +109,47 @@ Integrated **Clerk authentication** and **Mpesa payments (IntaSend)** with a cen
 #### 🚀 **Print Swift**  
 🛒 *Freelance Project | React Native*
 
-Built a react native application using Expo and was able to print receipts automatically for a transaction using Bluetooth to a thermal printer.  
-Integrated **Clerk authentication** and **Mpesa payments (IntaSend)** with a centralized CMS for managing inventory.  
+Built a react native application using Expo and was able to print receipts automatically for a transaction.
+Used Bluetooth to connect to the thermal printer.  
+
+💻 **Tech Stack:**  
+
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)
+
+🌐 [Source Code →](https://github.com/TJselevani/PrintSwift.git)
+
+---
+
+#### 🚀 **Digifunzi**  
+🛒 *Freelance Project | React Native*
+
+Built a React web page to promote the Dijifunzi platform.
+This program provides programming skills to kids and low-level children
 
 💻 **Tech Stack:**  
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
-🌐 [Source Code →](https://github.com/TJselevani/PrintSwift.git)
+🌐 [Source Code →](https://github.com/TJselevani/digifunzi.git)
+
+---
+
+#### 🚀 **Zoowaj**  
+🛒 *Freelance Project | React Native + Node js*
+
+Built a react native application using Expo, powered by a NodeJS backend.
+This was a demo dating application that could match-make matches for profiles and includes chat features.  
+
+💻 **Tech Stack:**  
+
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white)
+
+🌐 [Source Code →](https://github.com/SamuelOtuya/zoowaj_Main.git)
+🌐 [Source Code →](https://github.com/SamuelOtuya/Zoowaj_Node.git)
 
 ---
 
@@ -147,6 +180,26 @@ Implemented **FastAPI endpoints** to serve statistical insights and time-series 
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white)
 
 🌐 [Source Code →](https://github.com/TJselevani/python-analysis.git)
+
+---
+
+#### 🚀 **Timetable Generating System**  
+🛒 *School Project | Nodejs + ejs+ python*
+
+Built a NodeJS application running on the EJS view engine and used Python for machine learning capabilities.
+The system was able to generate a timetable without any collisions easily using integer/linear programming
+
+💻 **Tech Stack:**  
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![EJS](https://img.shields.io/badge/-EJS-20232A?logo=ejs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0B3D91?logo=code&logoColor=white)
+
+
+🌐 [Source Code →](https://github.com/TJselevani/PrintSwift.git)
+
 
 ---
 
