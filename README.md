@@ -126,7 +126,7 @@ I’m always excited to collaborate with fellow developers, share ideas, and tac
 
 ---
 
-> _“”_ ✨
+> _“A dreamer wakes inside the dream.”_ ✨
 
 
 <!--
