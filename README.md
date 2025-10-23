@@ -106,6 +106,20 @@ Integrated **Clerk authentication** and **Mpesa payments (IntaSend)** with a cen
 
 ---
 
+#### 🚀 **Print Swift**  
+🛒 *Freelance Project | React Native*
+
+Built a react native application using Expo and was able to print receipts automatically for a transaction using Bluetooth to a thermal printer.  
+Integrated **Clerk authentication** and **Mpesa payments (IntaSend)** with a centralized CMS for managing inventory.  
+
+💻 **Tech Stack:**  
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+
+🌐 [Source Code →](https://github.com/TJselevani/PrintSwift.git)
+
+---
+
 #### 🤖 **PyTorch Chatbot (FastAPI Integration)**  
 💬 *Freelance Project | AI + NLP Application*
 
